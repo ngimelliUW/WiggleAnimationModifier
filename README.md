@@ -35,6 +35,7 @@ struct ContentView: View {
         }
     }
 }
+```
 
 The `wiggling` modifier takes three arguments:
 

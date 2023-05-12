@@ -19,7 +19,7 @@ struct ContentView: View {
             Rectangle()
                 .frame(width: 100, height: 100)
                 .foregroundColor(.blue)
-                .wiggling(isWiggling: $isWiggling, bounceAmount: 2, rotationAmount: 3)
+                .wiggling(isWiggling: $isWiggling, rotationAmount: 3, bounceAmount: 2)
 
             Button(action: {
                 withAnimation {

@@ -2,7 +2,7 @@
 
 This repository contains a custom SwiftUI modifier for adding a 'wiggle' animation to any SwiftUI `View`. The idea was inspired by [markmals](https://github.com/markmals) on GitHub. This implementation extends the original idea by allowing the animation to be controlled by a boolean state variable and providing custom rotation and bounce amounts.
 
-<video src="https://github.com/ngimelliUW/WiggleAnimationModifier/assets/47952124/150cbbef-aa51-41da-9cd9-92cf52a449ef"> </video>
+https://github.com/ngimelliUW/WiggleAnimationModifier/assets/47952124/150cbbef-aa51-41da-9cd9-92cf52a449ef
 
 ## Installation
 
